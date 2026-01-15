@@ -2,8 +2,8 @@ NKZ RESOLUSI
 
 ==== Front End Web Developer ====
   
-- Mempelajari HTML dan CSS dasar
 - Menguasai bahasa pemrograman seperti JavaScript
+- Meningkatkan penguasaan HTML dan CSS ke tingkat lanjutan
 - Bisa menggunakan berbagai framework untuk mempermudah codingan seperti:
   - CSS Tailwind
   - CSS Bootstrap
