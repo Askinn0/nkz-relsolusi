@@ -4,4 +4,8 @@ NKZ RESOLUSI
   
 - Mempelajari HTML dan CSS dasar
 - Menguasai bahasa pemrograman seperti JavaScript
-- Bisa menggunakan berbagai framework untuk mempermudah codingan
+- Bisa menggunakan berbagai framework untuk mempermudah codingan seperti:
+  - CSS Tailwind
+  - CSS Bootstrap
+  - Node JS
+  - React JS
