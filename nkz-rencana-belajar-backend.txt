@@ -7,4 +7,6 @@ RENCANA BELAJAR BACK END WEB
   - MySQL
 - Belajar apa itu API
   - REST
+  - JSON APIs
+- Caching
 - Testing
