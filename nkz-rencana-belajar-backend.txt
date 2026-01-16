@@ -1,0 +1,10 @@
+RENCANA BELAJAR BACK END WEB
+
+- Belajar back end menggunakan bahasa js
+- Menguasai Git & Github
+- Belajar relational database
+  - PostgreSQL
+  - MySQL
+- Belajar apa itu API
+  - REST
+- Testing
