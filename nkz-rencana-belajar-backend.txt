@@ -2,6 +2,8 @@ RENCANA BELAJAR BACK END WEB
 
 - Belajar back end menggunakan bahasa js
 - Mempelajari bahasa back end lain seperti python
+- Mempelajari Ruby sebagai back end dengan framework :
+  - Ruby on Rails
 - Menguasai Git & Github
 - Belajar relational database
   - PostgreSQL
