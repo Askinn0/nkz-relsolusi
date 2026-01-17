@@ -5,6 +5,7 @@ RENCANA BELAJAR BACK END WEB
 - Mempelajari PHP sebagai back end dan menggunakan framework :
   - Laravel
 - Menguasai Git & Github
+- Gitlab
 - Belajar relational database
   - PostgreSQL
   - MySQL
